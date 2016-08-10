@@ -1,1 +1,1 @@
-# [WIP] hain-plugin-minecraft
+# hain-plugin-minecraft

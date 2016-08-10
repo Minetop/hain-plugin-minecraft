@@ -1,0 +1,31 @@
+{
+  "name": "hain-plugin-minecraft",
+  "version": "0.0.1",
+  "description": "hain plugin for saerch fastly a Minecraft server",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minetop/hain-plugin-minecraft.git"
+  },
+  "author": "Jordane JOUFFROY",
+  "license": "MIT",
+  "keywords": [
+    "hain0"
+  ],
+  "bugs": {
+    "url": "https://github.com/minetop/hain-plugin-minecraft/issues"
+  },
+  "homepage": "https://github.com/minetop/hain-plugin-minecraft",
+  "dependencies": {
+    "co": "^4.6.0",
+    "got": "^6.3.0",
+    "lodash": "^4.6.1"
+  },
+  "hain": {
+    "prefix": "/minecraft",
+    "usage": "/minecraft Server name",
+    "icon": "/logo.png",
+    "redirect": "/minecraft "
+  }
+}

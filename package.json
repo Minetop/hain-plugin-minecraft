@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-minecraft",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "hain plugin for saerch fastly a Minecraft server",
   "main": "index.js",
   "scripts": {},

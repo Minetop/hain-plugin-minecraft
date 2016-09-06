@@ -5,7 +5,7 @@ const fs        = require('fs');
 const co        = require('co');
 const got       = require('got');
 
-const API_URL = 'https://minecraft.top-serveurs.net/v1/servers/';
+const API_URL = 'https://api.top-serveurs.net/v1/servers/';
 const URL = 'https://minecraft.top-serveurs.net/';
 
 module.exports = (context) => {
